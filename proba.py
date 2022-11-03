@@ -1,1 +1,1 @@
-print("valami")
+print("valami!")
