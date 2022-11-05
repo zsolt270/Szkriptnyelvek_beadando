@@ -1,0 +1,10 @@
+Hallgató neve: Balogh Zsolt
+Kettő szkriptet készítettem a beadandóra.
+Az egyik a kocka_main.py aminél a felhasználó kiválaszthatja hogy milyen kockával akar dobni és ha rányom arra a gombra akkor visszakapja a dobott értéket, ehez tartozik
+kocka_fuggv.py ami a saját modul és ebben található a dobást megvalósítő függvény.
+A másik szkript a t_verseny ami egy teknős versenyt szimulál. Hét darab külön színű teknős van és az osztály.py-ban található az osztály amiből származnak ezek az objektumok.
+Az objektumoknak 2 tulajdonságát tároljuk, a színét a teknősnek és a pontját. A verseny végén a győztes tekjnősnek növeli egyel a pontját és ezután kiirja az össszes 
+teknős pontját.
+
+modulok: random, tkinter, kocka_fuggv(saját modul), turtle, turtle screen
+függvények:dobas(size), kiiras(args)
