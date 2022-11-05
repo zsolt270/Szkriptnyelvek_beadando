@@ -1,5 +1,5 @@
 Hallgató neve: Balogh Zsolt
-Kettő szkriptet készítettem a beadandóra.
+Kettő szkriptet készítettem a beadandóra, ezek a beadando mappában találhatók, illetve még a road.gif is ami a turtle verseny szkript háttere.
 Az egyik a kocka_main.py aminél a felhasználó kiválaszthatja hogy milyen kockával akar dobni és ha rányom arra a gombra akkor visszakapja a dobott értéket, ehez tartozik
 kocka_fuggv.py ami a saját modul és ebben található a dobást megvalósítő függvény.
 A másik szkript a t_verseny ami egy teknős versenyt szimulál. Hét darab külön színű teknős van és az osztály.py-ban található az osztály amiből származnak ezek az objektumok.
